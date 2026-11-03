@@ -15,7 +15,7 @@ export const STAGES: Stage[] = [
     {level: 2, name: 'Hatchling', emoji: '🐣', minGrowth: 50},
     {level: 3, name: 'Chick', emoji: '🐥', minGrowth: 200},
     {level: 4, name: 'Teen', emoji: '🐤', minGrowth: 500},
-    {level: 1, name: 'Grown', emoji: '🦆', minGrowth: 1000},
+    {level: 5, name: 'Grown', emoji: '🦆', minGrowth: 1000},
 ];
 //At about 2000ml a day (40 points), the pet hatches on day 2, becomes a chick around day 5, a teen around day 13 and grown around day 25.
 
